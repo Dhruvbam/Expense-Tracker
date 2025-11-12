@@ -1,4 +1,4 @@
-# Online Expense Tracker
+# Expense Tracker
 ![image](https://github.com/Dhruvbam/Expense-Tracker/blob/main/Images/ss.png)
 ## About
 The **Online Expense Tracker** was developed as a final project for the Software Engineering course (CS 3365). This application is designed to help users efficiently manage and analyze their expenses, with features for recording purchases, generating monthly reports, and utilizing a financial calculator. Through a user-friendly web interface, it provides a comprehensive solution for budgeting and tracking expenses.
